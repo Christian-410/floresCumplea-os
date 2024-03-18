@@ -43,7 +43,7 @@ svg .a g:nth-of-type(2) use:nth-of-type(5){transform:rotate(calc(4deg * 180 / va
   font-size: 30px;
   font-weight: bold;
   text-align: center;
-  color: rgb(14, 0, 144); /* Color del texto */
+  color: rgb(7, 0, 72); /* Color del texto */
 }
 
 #texto2 {
